@@ -11,3 +11,5 @@ joblib==1.5.3
 streamlit==1.65.0
 plotly==7.1.0
 ipywidgets==8.1.9
+sqlalchemy==x.x.x
+pymysql==x.x.x
